@@ -1,0 +1,1 @@
+# eslint-for-typescript-demo
