@@ -1,4 +1,4 @@
-var myName = 'Tom';
-console.log(`My name is ${myName}`);
-console.log(`My name is ${myName.toString()}`);
+const myNane = 'Tom';
+console.log(`My name is ${myNane}`);
+console.log(`My name is ${myNane.toString()}`);
 // type Foo = {}
